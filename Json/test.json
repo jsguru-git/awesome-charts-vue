@@ -1,0 +1,70 @@
+{
+  labels: ['Kwadraat A', 'Kwadraat B', 'Kwadraat C', 'Kwadraat D'],
+  datasets: [
+    {
+      label: 'Week 37 2017',
+      // borderColor: '#FC2525',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient,
+      data: [0, 0, 0, 0]
+    }, {
+      label: 'Week 38 2017',
+      // borderColor: '#05CBE1',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient2,
+      data: [0, 2, 0, 3]
+    }, {
+      label: 'Week 39 2017',
+      // borderColor: '#FC0025',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient,
+      data: [19, 11, 0, 5]
+    }, {
+      label: 'Week 40 2017',
+      // borderColor: '#05CB00',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient2,
+      data: [0, 0, 0, 0]
+    }, {
+      label: 'Week 41 2017',
+      // borderColor: '#002525',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient,
+      data: [68, 0, 0, 6]
+    }, {
+      label: 'Week 42 2017',
+      // borderColor: '#0500E1',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient2,
+      data: [0, 4, 0, 23]
+    }, {
+      label: 'Week 43 2017',
+      // borderColor: '#FC2500',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient,
+      data: [0, 0, 0, 0]
+    }, {
+      label: 'Week 44 2017',
+      // borderColor: '#00CBE1',
+      // pointBackgroundColor: 'white',
+      // borderWidth: 1,
+      // pointBorderColor: 'white',
+      // backgroundColor: this.gradient2,
+      data: [0, 0, 0, 0]
+    }
+  ]
+}
